@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Database (Runtime data)
+*.db
+*.sqlite
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime Configuration
+kiosk-layout.json
+
+# IDE / Editor files
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Environment variables (if you add .env later)
+.env
